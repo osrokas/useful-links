@@ -16,5 +16,11 @@ const links = [
     title: "PROS",
     description: "Specification for AI-native applications.",
     url: "https://danielmeppiel.github.io/awesome-ai-native/"
+  },
+  {
+    icon: "📊",
+    title: "ChunkViz",
+    description: "Visualize and analyze text chunks.",
+    url: "https://chunkviz.up.railway.app/"
   }
 ];
